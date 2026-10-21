@@ -1,0 +1,72 @@
+Order_ID,Order_Date,Customer_ID,Product_Category,Order_Value,Shipping_Cost,Warehouse,Delivery_Partner,Delivery_Days,Expected_Days,Order_Status,Customer_Rating,Return_Flag,Inventory_Level,Reorder_Level
+ORD1001,2026-01-02,CUST001,Electronics,45000,650,Bangalore,Delivery,3,4,Delivered,5,No,25,20
+ORD1002,2026-01-03,CUST002,Fashion,2500,180,Mumbai,BlueDart,2,3,Delivered,4,No,10,15
+ORD1003,2026-01-04,CUST003,Home & Kitchen,7800,320,Delhi,Ecom Express,5,4,Delivered,3,No,30,20
+ORD1004,2026-01-05,CUST004,Beauty,1500,120,Bangalore,Delivery,2,3,Delivered,5,No,8,10
+ORD1005,2026-01-06,CUST005,Electronics,32000,550,Hyderabad,BlueDart,4,4,Delivered,4,No,50,25
+ORD1006,2026-01-07,CUST006,Fashion,4200,200,Chennai,Ecom Express,6,5,Delivered,3,Yes,12,6
+ORD1007,2026-01-08,CUST007,Grocery,2800,150,Bangalore,Delivery,1,2,Delivered,5,No,18,24
+ORD1008,2026-01-09,CUST008,Home & Kitchen,9200,400,Delhi,BlueDart,3,4,Delivered,4,No,45,62
+ORD1009,2026-01-10,CUST009,Electronics,18500,450,Mumbai,Ecom Express,7,5,Delivered,2,Yes,15,23
+ORD1010,2026-01-11,CUST010,Fashion,3600,190,Bangalore,Delivery,2,3,Delivered,5,No,14,19
+ORD1011,2026-01-12,CUST011,Beauty,2200,130,Chennai,BlueDart,3,3,Delivered,4,No,24,29
+ORD1012,2026-01-13,CUST012,Electronics,27500,500,Hyderabad,Ecom Express,5,4,Delivered,3,No,18,12
+ORD1013,2026-01-14,CUST013,Fashion,5600,220,Delhi,Delivery,4,3,Delivered,2,Yes,29,24
+ORD1014,2026-01-15,CUST014,Grocery,3400,160,Mumbai,BlueDart,2,2,Delivered,5,No,8,12
+ORD1015,2026-01-16,CUST015,Home & Kitchen,11500,420,Bangalore,Ecom Express,4,5,Delivered,4,No,12,19
+ORD1016,2026-01-17,CUST016,Electronics,52000,700,Delhi,BlueDart,3,4,Delivered,5,No,17,18
+ORD1017,2026-01-18,CUST017,Beauty,1800,110,Chennai,Delivery,4,3,Delivered,2,Yes,19,26
+ORD1018,2026-01-19,CUST018,Fashion,6800,250,Hyderabad,Ecom Express,5,5,Delivered,4,No,27,34
+ORD1019,2026-01-20,CUST019,Grocery,2100,140,Bangalore,Delivery,1,2,Delivered,5,No,34,52
+ORD1020,2026-01-21,CUST020,Electronics,22500,480,Mumbai,BlueDart,4,4,Delivered,4,No,51,65
+ORD1021,2026-01-22,CUST021,Home & Kitchen,8900,350,Delhi,Ecom Express,6,5,Delivered,3,No,65,80
+ORD1022,2026-01-23,CUST022,Fashion,3100,180,Bangalore,Delivery,2,3,Delivered,5,No,80,43
+ORD1023,2026-01-24,CUST023,Beauty,2700,140,Chennai,BlueDart,3,3,Delivered,4,No,33,13
+ORD1024,2026-01-25,CUST024,Electronics,38000,600,Hyderabad,Ecom Express,5,4,Delivered,3,Yes,12,36
+ORD1025,2026-01-26,CUST025,Grocery,1900,120,Mumbai,Delivery,2,2,Delivered,5,No,37,39
+ORD1026,2026-01-27,CUST026,Fashion,4700,210,Delhi,BlueDart,3,4,Delivered,4,No,39,48
+ORD1027,2026-01-28,CUST027,Home & Kitchen,10200,390,Bangalore,Ecom Express,4,4,Delivered,4,No,47,45
+ORD1028,2026-01-29,CUST028,Electronics,29500,520,Chennai,Delivery,3,3,Delivered,5,No,45,52
+ORD1029,2026-01-30,CUST029,Beauty,1600,115,Hyderabad,BlueDart,5,4,Delivered,2,Yes,53,32
+ORD1030,2026-01-31,CUST030,Fashion,7300,260,Mumbai,Ecom Express,4,5,Delivered,4,No,31,30
+ORD1002,2026-01-03,CUST002,Fashion,2500,180,Mumbai,BlueDart,2,3,Delivered,4,No,10,15
+ORD1031,2026-02-01,CUST031,Electronics,18500,25000,Bangalore,Delivery,3,4,Delivered,5,No,22,20
+ORD1032,2026-02-02,CUST032,Fashion,3600,190,Chennai,Ecom Express,0,3,Delivered,4,No,14,19
+ORD1033,2026-02-03,CUST033,Grocery,2800,150,Mumbai,BlueDart,2,2,Delivered,5,No,18,24
+ORD1034,2026-02-04,CUST034,Beauty,2200,130,Delhi,Delivery,3,3,Delivered,4,No,24,29
+ORD1035,2026-02-05,CUST035,Home & Kitchen,9200,400,Hyderabad,Ecom Express,4,4,Delivered,4,No,45,62
+ORD1036,2026-02-06,CUST036,Fashion,4200,200,Bangalore,BlueDart,3,4,Delivered,3,Yes,12,6
+ORD1037,2026-02-07,CUST037,Electronics,32000,550,Mumbai,Delivery,4,4,Delivered,5,No,,25
+ORD1038,2026-02-08,CUST038,Grocery,1900,,Chennai,Ecom Express,2,2,Delivered,5,No,37,39
+ORD1039,2026-02-09,CUST039,Fashion,4700,210,Delhi,BlueDart,3,4,Delivered,4,No,39,48
+ORD1040,2026-02-10,CUST040,Home & Kitchen,10200,390,Bangalore,Ecom Express,4,4,Delivered,4,No,47,45
+ORD1041,2026-02-11,CUST041,Electronics,27500,500,Hyderabad,Delivery,-2,4,Delivered,3,No,18,12
+ORD1042,2026-02-12,CUST042,Beauty,1500,120,Mumbai,BlueDart,2,3,Delivered,5,No,8,10
+ORD1043,2026-02-13,CUST043,Fashion,5600,220,Chennai,Ecom Express,4,3,Delivered,2,Yes,29,24
+ORD1044,2026-02-14,CUST044,Grocery,3400,160,Bangalore,Delivery,2,2,Delivered,5,No,8,12
+ORD1045,2026-02-15,CUST045,Electronics,52000,700,Delhi,BlueDart,3,4,Delivered,5,No,17,18
+ORD1046,2026-02-16,CUST046,Fashion,6800,250,Hyderabad,Ecom Express,5,5,Delivered,4,No,27,34
+ORD1047,2026-02-17,CUST047,Home & Kitchen,11500,420,Mumbai,Delivery,4,5,Delivered,4,No,12,19
+ORD1048,2026-02-18,CUST048,Beauty,1800,110,Chennai,BlueDart,4,3,Delivered,2,Yes,19,26
+ORD1049,2026-02-19,CUST049,Electronics,22500,480,Bangalore,Ecom Express,4,4,Delivered,4,No,51,65
+ORD1050,2026-02-20,CUST050,Fashion,3100,180,Delhi,Delivery,2,3,Delivered,5,No,80,43
+ORD1051,2026-02-21,CUST051,Grocery,2100,140,Mumbai,BlueDart,1,2,Delivered,5,No,34,52
+ORD1052,2026-02-22,CUST052,Electronics,38000,600,Hyderabad,Ecom Express,5,4,Delivered,3,Yes,12,36
+ORD1053,2026-02-23,CUST053,Home & Kitchen,8900,350,Delhi,BlueDart,6,5,Delivered,3,No,65,80
+ORD1054,2026-02-24,CUST054,Fashion,7300,260,Bangalore,Delivery,4,5,Delivered,4,No,31,30
+ORD1055,2026-02-25,CUST055,Beauty,1600,115,Chennai,Ecom Express,5,4,Delivered,2,Yes,53,32
+ORD1056,2026-02-26,CUST056,Electronics,29500,520,Mumbai,BlueDart,3,3,Delivered,5,No,45,52
+ORD1057,2026-02-27,CUST057,Grocery,2800,150,Hyderabad,Delivery,2,2,Delivered,5,No,18,24
+ORD1058,2026-02-28,CUST058,Fashion,2500,180,Delhi,Ecom Express,2,3,Delivered,4,No,10,15
+ORD1059,2026-03-01,CUST059,Electronics,45000,650,Bangalore,BlueDart,3,4,Delivered,5,No,25,20
+ORD1060,2026-03-02,CUST060,Home & Kitchen,7800,320,Chennai,Delivery,5,4,Delivered,3,No,30,20
+ORD1061,2026-03-03,CUST061,Fashion,-500,190,Mumbai,Ecom Express,3,4,Delivered,4,No,14,19
+ORD1062,2026-03-04,CUST062,Electronics,32000,550,Delhi,BlueDart,4,4,Delivered,4,No,50,25
+ORD1063,2026-03-05,CUST063,Grocery,1900,120,Bangalore,Delivery,2,2,Delivered,5,No,37,39
+ORD1064,2026-03-06,CUST064,Beauty,2200,130,Hyderabad,Ecom Express,3,3,Delivered,4,No,24,29
+ORD1065,2026-03-07,CUST065,Electronics,52000,700,Chennai,BlueDart,3,4,Delivered,5,No,17,18
+ORD1066,2026-03-08,CUST066,Fashion,3600,190,Delhi,Delivery,2,3,Delivered,5,No,14,19
+ORD1067,2026-03-09,CUST067,Home & Kitchen,9200,400,Mumbai,Ecom Express,3,4,Delivered,4,No,45,62
+ORD1068,2026-03-10,CUST068,Grocery,2800,150,Bangalore,BlueDart,1,2,Delivered,5,No,18,24
+ORD1069,2026-03-11,CUST069,Fashion,4700,210,Hyderabad,Delivery,3,4,Delivered,4,No,39,48
+ORD1070,2026-03-12,CUST070,Electronics,29500,520,Delhi,Ecom Express,3,3,Delivered,5,No,45,52
